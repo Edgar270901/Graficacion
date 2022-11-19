@@ -21,7 +21,7 @@ public class CheckBoxD extends Application {
         layout.getChildren().addAll(check1, check2);
      
         primaryStage.setTitle("Elige una Opcion:");
-        primaryStage.setScene(scene);   
+        primaryStage.setScene(sce);   
         primaryStage.show();
     }
 }

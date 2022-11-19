@@ -26,7 +26,7 @@ public class ProgressBarandIndicator extends JApplet {
   }
 
   public static void main(String[] args) {
-    run(new ProgressBarandIndicator(), 300, 200);
+    run(new ProgressBarandIndicator(), 500, 300);
   }
 
   public static void run(JApplet applet, int width, int height) {
