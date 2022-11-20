@@ -20,7 +20,7 @@ public class ProgressBarandIndicator extends JApplet {
     sb.setPaintTicks(true);
     sb.setMajorTickSpacing(20);
     sb.setMinorTickSpacing(5);
-    sb.setBorder(new TitledBorder("Deslizame"));
+    sb.setBorder(new TitledBorder("Deslizar"));
     pb.setModel(sb.getModel()); // Share model
     cp.add(sb);
   }
